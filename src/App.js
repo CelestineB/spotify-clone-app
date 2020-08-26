@@ -2,11 +2,7 @@ import React from "react";
 import "./App.css";
 
 function App() {
-  return (
-    <div className="App">
-      <h2>Spotify clone with react</h2>
-    </div>
-  );
+  return <h1>Spotify clone by selstine</h1>;
 }
 
 export default App;
