@@ -39,4 +39,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 
 ### `Link FOR LIVE DEMO`
-https://sad-albattani-971147.netlify.app/
+https://spotify-clone-app.netlify.app/
